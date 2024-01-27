@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using MiniProjekt.Data;
 using MiniProjekt.Models;
 using System.Net;
-
+//Noa Denise Ishac NET23
 namespace MiniProjekt
 {
     public class Program
