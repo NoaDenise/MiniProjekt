@@ -6,7 +6,7 @@
 ```json
 Endpoint 1 (GET) - View all persons in the system
 URL: `https://localhost:7174/viewpersons`
-```json
+
 [
     {
         "id": 1,
